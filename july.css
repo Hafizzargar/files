@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+   
+    background-color: #000000;
+}
+*{
+    background-color: black;
+    color: #f8f9fa;
+}
+
+div {
+    text-align: center;
+}
+
+table {
+    border: none;
+    width: 80%;
+    margin-top: 20px;
+}
+
+th, td {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+}
+
+input{
+    width: 30vw;
+    height: 3vh;
+}
+button{
+    width: 246px;
+    height: 29px;
+    border: 2px solid white ;
+    
+
+}
